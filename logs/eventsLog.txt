@@ -1,0 +1,31 @@
+20240320	07:22:18	c748eda0-4fd0-49e4-8866-c298ff5ecacc	GET	undefined	/
+20240320	07:22:18	9eb0f197-0b7d-4d16-8d59-bc2de3aaf817	GET	undefined	/css/style.css
+20240320	07:24:58	56017808-bee5-49bd-9b68-9e0f8af1e709	GET	undefined	/
+20240320	07:24:58	f37db71c-66ed-466c-b217-87dfba6469a2	GET	undefined	/css/style.css
+20240320	07:27:14	160b3ce1-3004-4450-8e5e-2e522535d7ec	GET	https://www.google.com	/
+20240320	07:29:44	00aef60a-f382-4a3d-8418-21bb530a9029	GET	https://www.google.com	/
+20240320	07:32:24	113e365d-6721-4859-aae3-a43ee5a9cd10	GET	undefined	/
+20240320	07:32:24	5c15a469-309a-4e46-821d-1372722cbf32	GET	undefined	/css/style.css
+20240320	07:35:29	b9b17cc7-58af-484e-bd29-042dd74ef94e	GET	https://www.google.com	/
+20240320	07:35:55	803af3d7-951b-44d2-866f-744db1c3eeaf	GET	https://www.google.com	/
+20240320	07:36:25	df401ba6-2fe1-4385-a804-6ef79f68db62	GET	https://www.google.com	/
+20240320	07:37:44	6e4f8d17-fa31-404f-a74e-8a9ea9318c5b	GET	https://www.google.com	/
+20240320	07:41:17	81d7bcce-fd30-428a-acfb-361da8440edc	GET	undefined	/
+20240320	07:42:02	11afa845-ce75-4322-b92e-c73682102ee1	GET	undefined	/
+20240320	07:42:02	0dbebae2-29df-47d6-a442-0c1471e0a923	GET	undefined	/css/style.css
+20240320	07:46:31	cc8aca64-9c2c-4d2a-9029-ccdc936540f9	GET	undefined	/
+20240320	07:46:31	20e99d1e-84d3-4ab5-a68a-425b0ec7bcc7	Error: Not allowed by CORS
+20240320	07:47:39	fb440fe1-06cf-425e-8b85-23cfa9ccdf0b	GET	undefined	/
+20240320	07:47:39	26647c1d-e4f5-4ac8-9b77-144d5983c52b	Error: Not allowed by CORS
+20240320	07:49:11	b2f756b5-7e57-451a-a9a7-02af5580481b	GET	undefined	/
+20240320	07:49:11	95c9feab-95d0-4a68-bb27-967f9f4adb1a	Error: Not allowed by CORS
+20240320	07:49:11	e2b91b5d-cf18-4450-be56-338791297d85	GET	undefined	/favicon.ico
+20240320	07:49:11	5af0b093-b0df-4892-9be8-b3c497d83cd0	Error: Not allowed by CORS
+20240320	07:50:38	8ef90b25-1c22-465e-afb0-29ace211bfcc	GET	undefined	/
+20240320	07:50:38	556d2153-9348-4f6b-b65d-575ad200a87c	Error: Not allowed by CORS
+20240320	07:50:38	1aa43b10-924b-4496-9311-968333568984	GET	undefined	/favicon.ico
+20240320	07:50:38	eb2c0773-48b4-434e-ae6f-0dccf31fdc1e	Error: Not allowed by CORS
+20240320	07:51:12	0a1ba00c-6f7e-4978-8fcf-8c88568c3714	GET	undefined	/
+20240320	07:51:12	ecb0f039-9248-4dd9-ad6d-82e52012db61	Error: Not allowed by CORS
+20240320	07:51:12	4e2615b4-e768-459f-b73d-b11a5407889e	GET	undefined	/favicon.ico
+20240320	07:51:12	600e7695-ae42-4b2d-b3dd-dc00a9d4c6fe	Error: Not allowed by CORS
