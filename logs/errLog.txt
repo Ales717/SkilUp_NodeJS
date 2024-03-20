@@ -1,2 +1,4 @@
 20240320	07:52:12	8a16030e-aec1-453e-b8e6-24dd52309715	Error: Not allowed by CORS
 20240320	07:52:12	fad8a758-0413-422a-9b21-7c0a26bc824f	Error: Not allowed by CORS
+20240320	12:20:38	7eacdbbb-3945-4eef-9a22-8052961b932f	ReferenceError: jew is not defined
+20240320	12:21:11	14241c6e-a6b9-4fea-8695-a2b7b6841840	TypeError: jwt.sing is not a function
