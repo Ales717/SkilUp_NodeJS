@@ -41,3 +41,15 @@
 20240320	08:32:11	d6f316a9-b54e-4289-9178-7024ce59c075	PUT	undefined	/employees
 20240320	08:33:00	359346a2-161c-4bbe-8fa8-db4e8d9fb099	DELETE	undefined	/employees
 20240320	08:33:14	565497cf-85c2-4ec2-bd20-a7ae54e8f2ad	GET	undefined	/employees/1
+20240320	10:10:59	2a177442-bf7b-4b99-aa3f-25b089e345eb	GET	undefined	/register
+20240320	10:11:53	f3771d66-9bf2-4c2c-9b68-b0f5bc91f2c5	GET	undefined	/register
+20240320	10:14:24	e8216402-cdcf-45ae-ba0a-e745a355aeef	GET	undefined	/register
+20240320	10:15:10	624c7f1e-9493-4ed3-b7f3-a8621b8a49e5	POST	undefined	/register
+20240320	10:15:45	18445428-f0f4-4484-b229-d7985e3e2511	POST	undefined	/register
+20240320	10:16:05	a3e8df12-2866-4698-bf09-67562c14abca	POST	undefined	/register
+20240320	10:16:32	5fcf16d0-8dc1-482c-9244-3229dea18239	POST	undefined	/register
+20240320	10:17:46	65069a9e-3708-4fc9-a942-dff039c6847e	POST	undefined	/register
+20240320	10:18:24	88adc9c4-749c-4031-98d2-26b599e46e7d	POST	undefined	/register
+20240320	10:18:59	386f5316-0bf0-46e6-b341-c31d116907d0	POST	undefined	/register
+20240320	10:19:41	9311516f-a7ee-4cc2-ab6d-6479ea8def6e	POST	undefined	/register
+20240320	10:27:38	568cc240-483f-461e-9758-4a1aa40a1c13	POST	undefined	/auth
