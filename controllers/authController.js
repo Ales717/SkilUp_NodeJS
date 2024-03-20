@@ -20,8 +20,14 @@ const handleLogin = async (req, res) => {
     }
     const match = await bcrypt.compare(pwd, foundUser.password)
     if (match) {
+        const roles = Object.values(foundUser.roles)
         const accessToken = jwt.sign(
-            { "username": foundUser.username },
+            {
+                "UserInfo": {
+                    "username": foundUser.username,
+                    "roles": roles
+                }
+            },
             process.env.ACCESS_TOKEN_SECRET,
             { expiresIn: '60s' }
         );
@@ -31,13 +37,13 @@ const handleLogin = async (req, res) => {
             { expiresIn: '1d' }
         );
         const otherUser = usersDB.users.filter(p => p.username !== foundUser.username)
-        const currentUser = { ...foundUser, refreshToken}
+        const currentUser = { ...foundUser, refreshToken }
         usersDB.setUsers([...otherUser, currentUser])
         await fsPromises.writeFile(
             path.join(__dirname, '..', 'model', 'users.json'),
             JSON.stringify(usersDB.users)
         )
-        res.cookie('jwt', refreshToken, { httpOnly: true, sameSie: 'None', secure: true, maxAge: 24 * 60 * 60 * 1000})
+        res.cookie('jwt', refreshToken, { httpOnly: true, sameSie: 'None', secure: true, maxAge: 24 * 60 * 60 * 1000 })
         res.json({ accessToken })
     } else {
         res.sendStatus(401)
